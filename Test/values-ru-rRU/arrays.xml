@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_languages">
+        <item> Араб-Египет </item>
+        <item> арабо-саудовская </item>
+        <item> арабский - ОАЭ </item>
+        <item> Каталония </item>
+        <item> Czech </item>
+        <item> Немецкий </item>
+        <item> English-Australia </item>
+        <item> Английский - Английский </item>
+        <item> Английский - США </item>
+        <item> Английская - Индия </item>
+        <item> Испания - Запад </item>
+        <item> Испания - Latin </item>
+        <item> Финский </item>
+        <item> French-Plus </item>
+        <item> Французский - Метод </item>
+        <item> хинди </item>
+        <item> хорватский </item>
+        <item> Венгерский </item>
+        <item> индонезийский </item>
+        <item> итальянский </item>
+        <item> Иврит </item>
+        <item> японский </item>
+        <item> Korean </item>
+        <item> Dutch </item>
+        <item> Norwegian </item>
+        <item> Польское </item>
+        <item> Португалия - Бразилия </item>
+        <item> португальский </item>
+        <item> румынский </item>
+        <item> русский </item>
+        <item> Slovak </item>
+        <item> шведский </item>
+        <item> Thai </item>
+        <item> Turkish </item>
+        <item> Вьетнамский </item>
+        <item> Упрощенный китайский </item>
+        <item> Китайский традиционный </item>
+        <item> Китайский кантонский </item>
+        <item> датский </item>
+        <item> греческий </item>
+        <item> украинский </item>
+        <item> малайский </item>
+    </string-array>
+
+    <string-array name="str_help_titles">
+        <item> Внешний вид и структура </item>
+        <item> Как подключить карту перевода Bluetooth? </item>
+        <item> Каковы функции стика для перевода Bluetooth? </item>
+        <item> Как далеко поддерживает расстояние? </item>
+        <item> не может загрузиться? </item>
+        <item> Не удается найти устройство при подключении? </item>
+        <item> Как использовать перевод разговора? </item>
+        <item> Как использовать запись перевода? </item>
+        <item> Как использовать AI Assistant? </item>
+        <item> На что следует обратить внимание при зарядке? </item>
+    </string-array>
+
+    <string-array name="str_record_language">
+        <item>Китайский мандарин</item>
+        <item>английский</item>
+    </string-array>
+</resources>

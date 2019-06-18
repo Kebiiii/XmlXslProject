@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_languages">
+        <item> Arab-Egypt </item>
+        <item> Arabo-Saoudien </item>
+        <item> Arabian-UAE </item>
+        <item> Catalogne </item>
+        <item> tchèque </item>
+        <item> allemand </item>
+        <item> English-Australia </item>
+        <item> anglais-anglais </item>
+        <item> English-beauty </item>
+        <item> anglais-indien </item>
+        <item> Espagne-Ouest </item>
+        <item> Spain-Latin </item>
+        <item> finnois </item>
+        <item> French-Plus </item>
+        <item> français-français </item>
+        <item> hindi </item>
+        <item> croate </item>
+        <item> hongrois </item>
+        <item> indonésien </item>
+        <item> italien </item>
+        <item> hébreu </item>
+        <item> japonais </item>
+        <item> coréen </item>
+        <item> néerlandais </item>
+        <item> norvégien </item>
+        <item> polonais </item>
+        <item> Portugal-Brésil </item>
+        <item> portugais </item>
+        <item> roumain </item>
+        <item> russe </item>
+        <item> slovaque </item>
+        <item> suédois </item>
+        <item> thaï </item>
+        <item> turc </item>
+        <item> Vietnamien </item>
+        <item> Chinois simplifié</item>
+        <item> Chinois traditionnel </item>
+        <item> cantonais chinois </item>
+        <item> danois </item>
+        <item> grec </item>
+        <item> Ukrainien </item>
+        <item> malaisien </item>
+    </string-array>
+
+    <string-array name="str_help_titles">
+        <item>Apparence et structure</item>
+        <item>Comment connecter une clé de traduction Bluetooth?</item>
+        <item>Quelles sont les fonctions de la clé de traduction Bluetooth?</item>
+        <item>À quelle distance la distance est-elle supportée?</item>
+        <item>Vous ne pouvez pas démarrer?</item>
+        <item>Vous ne trouvez pas l\'appareil lors de la connexion?</item>
+        <item>Comment utiliser la traduction de dialogue?</item>
+        <item>Comment utiliser la traduction d\'enregistrement?</item>
+        <item>Comment l\'assistant d\'IA est-il utilisé?</item>
+        <item>À quoi devrais-je faire attention lors du chargement?</item>
+    </string-array>
+
+    <string-array name="str_record_language">
+        <item>Chinois mandarin</item>
+        <item>Anglais</item>
+    </string-array>
+</resources>

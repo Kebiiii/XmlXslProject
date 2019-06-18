@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_languages">
+        <item>阿拉伯-埃及</item>
+        <item>阿拉伯-沙特</item>
+        <item>阿拉伯-阿聯酋</item>
+        <item>加泰羅尼亞</item>
+        <item>捷克語</item>
+        <item>德語</item>
+        <item>英語-澳</item>
+        <item>英語-英</item>
+        <item>英語-美</item>
+        <item>英語-印</item>
+        <item>西班牙語-西</item>
+        <item>西班牙語-拉丁</item>
+        <item>芬蘭語</item>
+        <item>法語-加</item>
+        <item>法語-法</item>
+        <item>印地語</item>
+        <item>克羅地亞語</item>
+        <item>匈牙利語</item>
+        <item>印度尼西亞語</item>
+        <item>意大利語</item>
+        <item>希伯來語</item>
+        <item>日語</item>
+        <item>韓語</item>
+        <item>荷蘭語</item>
+        <item>挪威語</item>
+        <item>波蘭語</item>
+        <item>葡萄牙語-巴西</item>
+        <item>葡萄牙語</item>
+        <item>羅馬尼亞語</item>
+        <item>俄羅斯語</item>
+        <item>斯洛伐克語</item>
+        <item>瑞典語</item>
+        <item>泰語</item>
+        <item>土耳其語</item>
+        <item>越南語</item>
+        <item>中文簡體</item>
+        <item>中文繁體</item>
+        <item>中文粵語</item>
+        <item>丹麥語</item>
+        <item>希臘語</item>
+        <item>烏克蘭語</item>
+        <item>馬來西亞語</item>
+    </string-array>
+
+    <string-array name="str_help_titles">
+        <item>外观和结构</item>
+        <item>如何连接蓝牙翻译棒？</item>
+        <item>蓝牙翻译棒有哪些功能？</item>
+        <item>支持多远的距离使用？</item>
+        <item>无法开机？</item>
+        <item>连接时找不到设备？</item>
+        <item>对话翻译如何使用？</item>
+        <item>录音翻译如何使用？</item>
+        <item>AI助手如何使用？</item>
+        <item>充电需要注意什么？</item>
+    </string-array>
+
+    <string-array name="str_record_language">
+        <item>中文普通話</item>
+        <item>英語</item>
+    </string-array>
+</resources>

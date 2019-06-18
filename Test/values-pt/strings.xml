@@ -1,0 +1,262 @@
+<resources>
+    <string name="trans_app_name_zj">eTranslator</string>
+    <string name="trans_app_name_lxl">YF Translation</string>
+    <string name="trans_app_name_yd">AI Translator</string>
+    <string name="trans_app_name_ry">XiYi-1</string>
+    <string name="trans_app_name_jlc">智能翻译</string>
+    <string name="trans_app_name_bl">博乐AI翻译棒</string>
+    <string name="trans_app_name_hn">智能翻译</string>
+    <string name="trans_app_name_ysd">uTranslate</string>
+    <string name="trans_app_name_hyf">HYF</string>
+    <string name="trans_app_name_macvail">麦克韦尔翻译</string>
+    <string name="trans_app_name_jsd">金斯达翻译</string>
+    <string name="trans_app_name_boeu">QTranslation</string>
+
+    <string name="unknown_device">Dispositivo desconhecido</string>
+
+    <!-- common -->
+    <string name = "cancel"> Cancelar </string>
+    <string name = "ok"> é </string>
+    <string name = "confirm"> OK </string>
+    <string name = "to_setting"> para definir </string>
+    <string name = "back"> retornar </string>
+    <string name = "tips"> Prompt </string>
+    <string name = "exit"> sair </string>
+    <string name = "success"> sucesso </string>
+    <string name = "fail"> falhou </string>
+    <string name = "pls_wait"> Por favor aguarde </string>
+    <string name = "network_error_tip"> A rede parece ter alguns problemas, por favor verifique a rede </string>
+
+    <string name = "not_get_sn_msg"> Por favor, permita que o aplicativo atual obtenha o código do dispositivo! </string>
+    <string name = "not_app_auth_msg_check_network"> rede abriu um pequeno \ n autorização de aplicação falhou, nome do pacote: </string>
+    <string name = "not_app_auth_msg"> A aplicação atual não é autorizada, nome do pacote: </string>
+    <string name = "ble_connecting"> Esforços estão sendo feitos para conectar dispositivos Bluetooth, por favor espere! </string>
+    <string name = "ble_connection_success_tip"> A conexão do dispositivo Bluetooth (BLE) foi bem sucedida! </string>
+    <string name = "classic_bt_connection_success_tip"> Dispositivo Bluetooth conectado com sucesso! </string>
+    <string name = "voice_init_success_tip"> inicialização do serviço de voz com sucesso! </string>
+    <string name = "voice_init_failed_tip"> falha na inicialização do serviço de voz! </string>
+    <string name = "init_voice_service_tip"> Iniciando o serviço de voz ... </string>
+    <string name = "init_auth_service_tip"> A autorização está em andamento ... </string>
+    <string name = "bt_connection_tip"> Por favor conecte um dispositivo Bluetooth! </string>
+    <string name = "bt_connection_failed_tip"> Falha na conexão do dispositivo Bluetooth, selecione novamente o dispositivo </string>
+
+    <string name = "select_lang_title"> Selecione o idioma </string>
+    <string name = "settings_title"> Configurações </string>
+    <string name = "settings_ble_item"> Bluetooth </string>
+    <string name = "settings_wifi_item"> Rede sem fio </string>
+    <string name = "settings_engine_item"> mecanismo de tradução </string>
+    <string name = "settings_speaker_item"> voz masculina e feminina </string>
+    <string name = "settings_speaker_item_man"> Masculino </string>
+    <string name = "settings_speaker_item_woman"> feminino </string>
+    <string name = "settings_speed_item"> velocidade de leitura </string>
+    <string name = "settings_speed_item_slow"> lento </string>
+    <string name = "settings_speed_item_normal"> Normal </string>
+    <string name = "settings_speed_item_faster"> Um pouco mais rápido </string>
+    <string name = "settings_speed_item_fastest"> rápido </string>
+    <string name = "settings_auto_speak_item"> Ler traduções automaticamente </string>
+    <string name = "settings_auto_speak_auto_item"> automático </string>
+    <string name = "settings_auto_speak_shou_item"> manual </string>
+    <string name = "settings_clean_data_item"> texto claro </string>
+    <string name = "settings_clean_data_item_tips"> excluir histórico </string>
+    <string name = "settings_clean_data_item_desc"> Tem certeza de que deseja excluir o histórico? </string>
+    <string name = "settings_multi_lang_item"> multi-idioma </string>
+    <string name = "settings_multi_lang_item_cn"> chinês simplificado </string>
+    <string name = "settings_multi_lang_item_en"> inglês </string>
+    <string name = "settings_multi_lang_item_ja"> japonês </string>
+    <string name = "settings_multi_lang_item_fr"> francês </string>
+    <string name = "settings_multi_lang_item_cn_tw"> chinês tradicional </string>
+    <string name = "settings_about_item"> informações sobre a versão </string>
+    <string name = "settings_about_version_item"> número da versão </string>
+    <string name="settings_my_device_name">Name</string>
+    <string name="settings_my_device_mac">Mac</string>
+    <string name = "check_for_updates"> detecta atualizações </string>
+    <string name = "no_update"> sem atualização </string>
+    <string name = "check_update_failure"> Detectando falhas de atualização </string>
+    <string name = "downloading_updates_in_the_background"> ​​Baixando atualizações em segundo plano </string>
+    <string name = "update_reminder"> novo lembrete de atualização de versão </string>
+    <string name = "no_update_instructions"> nenhuma descrição de atualização </string>
+    <string name = "update_download"> Fazer o download </string>
+
+    <string name = "tips_recognize_failed"> Nenhum reconhecimento foi bem-sucedido. Tente novamente. </string>
+    <string name = "tips_recognizing"> Identificação ... </string>
+    <string name = "tips_online_tts"> Voz sintetizada on-line ... </string>
+    <string name = "tips_recognize_not_speak"> Você não falou </string>
+    <string name = "tips_translate_failed"> erro de tradução </string>
+    <string name = "listening"> Escutando ... </string>
+    <string name = "try_click_exit_app"> Pressione novamente para sair do programa </string>
+    <string name = "bt_connect_failed_msg"> Não é possível conectar ao Bluetooth clássico, as possíveis razões são as seguintes: \ n1, o dispositivo Bluetooth está desligado ou não está no alcance de comunicação (10 metros); \ n2, o dispositivo foi conectado a outros dispositivos, desconecte e tente novamente. </string>
+    <string name = "translation_engine"> mecanismo de tradução </string>
+    <string name = "searching_bluetooth"> é o emparelhamento Bluetooth, aguarde por favor </string>
+
+    <string name = "jump"> pular </string>
+    <string name = "bl_bt_searching"> Pesquisa por Bluetooth ... </string>
+    <string name = "bl_bt_make_sure_is_on"> Confirme que a barra de tradução está ligada </string>
+    <string name = "bl_bt_not_open"> O Bluetooth não está ativado </string>
+    <string name = "bl_bt_to_open_bluetooth"> Por favor, ligue o telefone Bluetooth para se conectar à barra de tradução </string>
+    <string name = "bl_bt_near_the_mobile_phone"> Por favor, feche a barra de tradução para o seu telefone </string>
+    <string name = "bl_bt_not_connect"> Não é possível conectar-se? </string>
+    <string name = "bl_bt_now_not_connect"> atualmente sem conexão de dispositivo </string>
+    <string name = "bl_bt_now_disconnect"> Bluetooth foi desconectado, clique para reconectar ... </string>
+    <string name = "bt_connected"> conectado </string>
+    <string name = "bt_disconnected"> não conectado </string>
+    <string name = "gps_on_off"> Você quer ligar o GPS </string>
+    <string name = "gps_on_off_msg"> Comunique-se com o dispositivo para abrir o GPS </string>
+
+    <!-- BL Home -->
+    <string name = "bl_bt_bang"> Minha barra de tradução </string>
+    <string name = "bl_bt_bang_details"> dispositivo </string>
+    <string name = "bl_bt_multi_lang"> Tradução de diálogo </string>
+    <string name = "bl_bt_ai_ass"> AI Assistant </string>
+    <string name="bl_bt_ai_ass_tips">您可以跟我说：\n\t\n\t今天天气？\n\t\n\t唱一首“死了都要爱”\n\t\n\t36*48/5=？\n\t\n\t我们来聊聊天吧!\n\t\n\t为什么天空是蓝色的？\n\t\n\t… …</string>
+    <string name = "bl_bt_recoding_trans"> gravação de tradução </string>
+    <string name = "bl_bt_settings"> Configurações </string>
+    <string name = "bl_bt_help"> Guia do Usuário </string>
+    <string name = "bl_bt_settings_fovi"> Meus Favoritos </string>
+    <string name = "bl_bt_settings_fovi_allin"> Selecionar tudo </string>
+    <string name = "bl_bt_settings_fovi_favorites"> Favoritos </string>
+    <string name = "bl_bt_settings_fovi_delete"> delete </string>
+    <string name = "bl_bt_settings_font"> tamanho da fonte </string>
+    <string name = "bl_bt_settings_font_s"> pequeno </string>
+    <string name = "bl_bt_settings_font_l"> 中 </string>
+    <string name = "bl_bt_settings_font_h"> grande </string>
+
+    <!-- Record Translation-->
+    <string name = "audio_record_start_tips"> Por favor, pressione @ para iniciar a gravação </string>
+    <string name = "audio_record_start"> inicia a gravação </string>
+    <string name = "audio_record_stop"> parar de gravar </string>
+    <string name = "audio_record"> gravação </string>
+    <string name = "audio_record_file"> arquivo de gravação </string>
+
+
+    <!--AI Assistant-->
+    <string name = "personvsrobot"> diálogo de máquina humana </string>
+    <string name = "text_asr"> ASR </string>
+    <string name = "duo_status_vs"> diálogo multimodal </string>
+    <string name = "str_response_null"> os resultados de retorno estão vazios </string>
+    <string name = "network_error"> rede lenta. buffer falhou </string>
+    <string name = "ai_assistant"> Assistente do AI </string>
+    <string name = "New_version_updates"> nova versão pronta </string>
+    <string name = "check_available_updates"> Verificar atualizações de versão </string>
+    <string name = "speakplease"> Por favor, fale, estou ouvindo </string>
+    <string name="ai_empty_text">播放新一期的罗辑思维\n\n今天天气怎么样\n\n老爸的号码多少\n\n宝贝要听萌鸡小队的儿歌\n\n我想听熊爸爸的十万个为什么\n\n请问国庆节是哪一天\n\n给我来段评书\n\n来一段轻音乐
+        \n\n讲个故事来听听\n\n2345×516等于多少\n\n我想知道关于养生的方法\n\n宝宝要听阿里巴巴与四十大盗的故事\n\n你很皮的英文怎么说\n\n我要听孝庄秘史粤语版\n\n淞沪会战发生在哪一年\n\n欧洲有哪些地方好玩
+        \n\n我想听新闻\n\n为什么天空会下雨\n\n我想听十二生肖的故事\n\n听故事学历史\n\n嘴唇干是怎么回事\n\n雨天路滑怎么开车\n\n会挽雕弓如满月下一句\n\n我想知道怎么锻炼自己的记忆力\n\n十二时辰养生诀
+        \n\n来一段冯巩的相声\n\n讲个笑话让我开心下\n\n今天有哪些国际新闻\n\n艺术很难吗\n\n23*45等于多少\n\n来一首音乐《恭喜发财》\n\n今天股市怎么样\n\n我要玩成语接龙\n\n你知道哪些交通安全小知识\n\n我想听世界上下五千年
+        \n\n你会脑经急转弯吗\n\n你会心理学吗\n\n来一段四川方言笑话</string>
+    <string name="ai_empty_text2">播放新一期的罗辑思维\n\n今天天气怎么样\n\n老爸的号码多少\n\n宝贝要听萌鸡小队的儿歌\n\n我想听熊爸爸的十万个为什么\n\n请问国庆节是哪一天\n\n给我来段评书\n\n来一段轻音乐\n\n讲个故事来听听</string>
+    <string name = "str_delete"> delete </string>
+    <string name = "str_delete_all"> delete tudo </string>
+    <string name = "str_change_bt_device"> Você troca de dispositivos Bluetooth? </string>
+    <string name = "str_unbind_bt_device"> É desassociado? </string>
+    <!--help-->
+    <string name = "audio_record_tranle"> está traduzindo </string>
+    <string name = "str_unbind"> Desvincular </string>
+    <string name="no_binding_device">Sem dispositivo de ligação</string>
+    <string name = "str_link_device"> Conectar dispositivo </string>
+    <string name = "unbind_success"> desamarrado com sucesso </string>
+    <string name = "unbind_failed"> Desvincular falha </string>
+
+    <string name = "reconnect_device"> Reconectar dispositivo </string>
+    <string name = "my_device"> Meu dispositivo </string>
+    <string name = "unbind_successfully"> desamarrado com sucesso </string>
+    <string name = "not_bind_device"> dispositivo temporariamente desacoplado </string>
+
+    <string name = "server_status_tips0"> Dispositivo disponível </string>
+    <string name = "server_status_tips1"> Dispositivo não disponível </string>
+    <string name = "server_status_tips2"> Erro de parâmetro </string>
+    <string name = "server_status_tips3"> O dispositivo está ligado </string>
+    <string name = "server_status_tips4"> O dispositivo não existe </string>
+
+    <string name = "permission_request_tips1"> Para usar o software normalmente, por favor \ n </string>
+    <string name = "permission_request_tips2"> Permitir microfone \ n </string>
+    <string name = "permission_request_tips3"> Permitir ler as informações do telefone \ n </string>
+    <string name = "permission_request_tips4"> Permitir acesso a informações de localização \ n </string>
+    <string name = "permission_request_tips5"> Permitir Bluetooth \ n </string>
+    <string name = "permission_request_tips6"> Permitir leitura e gravação do arquivo \ n </string>
+    <string name = "permission_request_tips7"> Permitir o uso de modificar as configurações do telefone \ n </string>
+    <string name = "permission_request_tips8"> O caminho da operação é: </string>
+    <string name = "permission_request_tips9"> Configurações> Gerenciamento de aplicativos &gt; </string>
+    <string name = "permission_request_tips10"> &gt; permissões </string>
+
+    <string name = "str_alabo_aiji"> Egito-árabe </string>
+    <string name = "str_alabo_shate"> árabe-saudita </string>
+    <string name = "str_alabo_alianqiu"> árabe-UAE </string>
+    <string name = "str_alabo_yiselie"> árabe-israelense </string>
+    <string name = "str_alabo_yuedan"> Árabe-Jordânia </string>
+    <string name = "str_alabo_balin"> árabe-bahrein </string>
+    <string name = "str_alabo_aman"> Árabe-Omã </string>
+    <string name = "str_alabo_aerjiliya"> Árabe-Argélia </string>
+    <string name = "str_alabo_balesitan"> árabe-palestino </string>
+    <string name = "str_alabo_yilake"> Árabe-Iraque </string>
+    <string name = "str_alabo_keweite"> Arab-Kuwait </string>
+    <string name = "str_alabo_kataer"> Árabe-Catar </string>
+    <string name = "str_alabo_mologe"> árabe-Marrocos </string>
+    <string name = "str_alabo_tunisi"> Árabe-Tunísia </string>
+    <string name = "str_alabo_libanen"> árabe-libanês </string>
+    <string name = "str_jiatailuoniya"> Catalunha </string>
+    <string name = "str_jianke"> tcheco </string>
+    <string name = "str_de"> alemão </string>
+    <string name = "str_en_au"> inglês-australiano </string>
+    <string name = "str_en_en"> inglês-inglês </string>
+    <string name = "str_en_us"> inglês-beleza </string>
+    <string name = "str_en_yin"> Inglês-Imprimir </string>
+    <string name = "str_en_canada"> inglês-canadense </string>
+    <string name="str_en_nzl">Inglês - Nova Zelândia</string>
+    <string name = "str_en_gn"> inglês-gana </string>
+    <string name = "str_en_aerlan"> inglês-irlandês </string>
+    <string name = "str_en_kenniya"> inglês-quênia </string>
+    <string name = "str_en_niriliya"> inglês-nigéria </string>
+    <string name = "str_en_feiliben"> inglês-filipino </string>
+    <string name = "str_en_nanfei"> inglês-África do Sul </string>
+    <string name = "str_en_tansan"> inglês-Tanzânia </string>
+    <string name = "str_es_es"> Espanha-Oeste </string>
+    <string name = "str_es_lading"> Espanha-latim </string>
+    <string name = "str_es_agenting"> Espanha-Argentina </string>
+    <string name = "str_es_boliweiya"> Espanha-Bolívia </string>
+    <string name = "str_es_zhili"> Espanha-Chile </string>
+    <string name = "str_es_saerwaduo"> Espanha-El Salvador </string>
+    <string name = "str_es_weidimala"> Espanha-Guatemala </string>
+    <string name = "str_es_gelunbiya"> Espanha-Colômbia </string>
+    <string name = "str_es_gesidalijia"> Espanha-Costa Rica </string>
+    <string name = "str_es_erguaduoer"> Espanha-Equador </string>
+    <string name = "str_es_usa"> Espanha-Estados Unidos </string>
+    <string name = "str_es_hongdu"> Espanha - Honduras </string>
+    <string name = "str_es_mxg"> Espanha-México </string>
+    <string name = "str_es_njlg"> Espanha-Nicarágua </string>
+    <string name = "str_es_banama"> Espanha-Panamá </string>
+    <string name = "str_es_balagui"> Espanha-Paraguai </string>
+    <string name = "str_es_bilu"> Espanha-Peru </string>
+    <string name = "str_es_boduolige"> Espanha - Porto Rico </string>
+    <string name = "str_fin"> finlandês </string>
+    <string name = "str_fr_ca"> francês-plus </string>
+    <string name = "str_fr_fr"> método francês </string>
+    <string name = "str_yindi"> hindi </string>
+    <string name = "str_keluodiya"> croata </string>
+    <string name = "str_hu"> húngaro </string>
+    <string name = "str_yindunixiya"> indonésio </string>
+    <string name = "str_yidali"> italiano </string>
+    <string name = "str_xibolai"> hebraico </string>
+    <string name = "str_ja"> japonês </string>
+    <string name = "str_ko"> coreano </string>
+    <string name = "str_helan"> holandês </string>
+    <string name = "str_helan_za"> Holanda-África do Sul </string>
+    <string name = "str_no"> norueguês </string>
+    <string name = "str_pl"> polonês </string>
+    <string name = "str_pt_ba"> Portugal-Brasil </string>
+    <string name = "str_pt"> Portugal-Portugal </string>
+    <string name = "str_pt_luoma"> Romênia </string>
+    <string name = "str_ru"> russo </string>
+    <string name = "str_sk"> eslovaco </string>
+    <string name = "str_sv"> sueco </string>
+    <string name = "str_thai"> tailandês </string>
+    <string name = "str_tur"> turco </string>
+    <string name = "str_vi"> vietnamita </string>
+    <string name = "str_zh_cn"> chinês simplificado </string>
+    <string name = "str_zh_hk"> chinês tradicional </string>
+    <string name = "str_zh_yue"> cantonês chinês </string>
+    <string name = "str_dm"> dinamarquês </string>
+    <string name = "str_el"> grego </string>
+    <string name = "str_uk"> ucraniano </string>
+    <string name = "str_my"> malaio </string>
+
+</resources>

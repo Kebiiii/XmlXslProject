@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_languages">
+        <item> Egito-árabe </item>
+        <item> Arab-Saudi </item>
+        <item> Arabian-UAE </item>
+        <item> Catalunha </item>
+        <item> Checo </item>
+        <item> alemão </item>
+        <item> Inglês-Austrália </item>
+        <item> inglês-inglês </item>
+        <item> Beleza inglesa </item>
+        <item> Inglês-indiano </item>
+        <item> Espanha-Oeste </item>
+        <item> Espanha-latim </item>
+        <item> finlandês </item>
+        <item> French-Plus </item>
+        <item> francês-francês </item>
+        <item> Hindi </item>
+        <item> Croata </item>
+        <item> húngaro </item>
+        <item> indonésio </item>
+        <item> italiano </item>
+        <item> hebraico </item>
+        <item> japonês </item>
+        <item> coreano </item>
+        <item> holandês </item>
+        <item> norueguês </item>
+        <item> Polonês </item>
+        <item> Portugal-Brasil </item>
+        <item> Português </item>
+        <item> romeno </item>
+        <item> russo </item>
+        <item> eslovaco </item>
+        <item> sueco </item>
+        <item> Tailandês </item>
+        <item> Turco </item>
+        <item> vietnamita </item>
+        <item> Chinês simplificado </item>
+        <item> Chinês tradicional </item>
+        <item> cantonês chinês </item>
+        <item> dinamarquês </item>
+        <item> grego </item>
+        <item> ucraniano </item>
+        <item> Malaio </item>
+    </string-array>
+
+    <string-array name="str_help_titles">
+        <item> Aparência e estrutura </item>
+        <item> Como conectar um stick de tradução Bluetooth? </item>
+        <item> Quais são as funções do stick de tradução Bluetooth ? </item>
+        <item> Até que ponto suporta a distância? </item>
+        <item> não consegue inicializar? </item>
+        <item> Não consegue encontrar o dispositivo quando se conecta? </item>
+        <item> Como usar a tradução de conversas ? </item>
+        <item> Como usar a tradução de gravação de ? </item>
+        <item> Como usar o AI Assistant? </item>
+        <item> Para que devo prestar atenção ao carregar? </item>
+    </string-array>
+
+    <string-array name="str_record_language">
+        <item>Mandarim chinês</item>
+        <item>Inglês</item>
+    </string-array>
+</resources>

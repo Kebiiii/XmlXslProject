@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_languages">
+        <item>アラブ・エジプト</item>
+        <item>アラブサウディ</item>
+        <item>アラブ首長国連邦</item>
+        <item>カタロニア</item>
+        <item>チェコ語</item>
+        <item>ドイツ語</item>
+        <item>英語 - オーストラリア</item>
+        <item>英語 - 英国</item>
+        <item>英語 - アメリカ</item>
+        <item>英語 - インド</item>
+        <item>スペイン語 - スペイン</item>
+        <item>スペイン - ラテンアメリカ</item>
+        <item>フィンランド語</item>
+        <item>フランス - カナダ</item>
+        <item>フランス - フランス</item>
+        <item>ヒンディー語</item>
+        <item>クロアチア語</item>
+        <item>ハンガリー語</item>
+        <item>インドネシア語</item>
+        <item>イタリア語</item>
+        <item>ヘブライ語</item>
+        <item>日本語</item>
+        <item>韓国語</item>
+        <item>オランダ語</item>
+        <item>ノルウェー語</item>
+        <item>ポーランド語</item>
+        <item>ポルトガル語 - ブラジル</item>
+        <item>ポルトガル</item>
+        <item>ルーマニア語</item>
+        <item>ロシア語</item>
+        <item>スロバキア語</item>
+        <item>スウェーデン語</item>
+        <item>タイ語</item>
+        <item>トルコ語</item>
+        <item>ベトナム語</item>
+        <item>中国語簡体字</item>
+        <item>中国語繁体字</item>
+        <item>中国語の広東語</item>
+        <item>デンマーク語</item>
+        <item>ギリシャ語</item>
+        <item>ウクライナ語</item>
+        <item>マレー語</item>
+    </string-array>
+
+    <string-array name="str_help_titles">
+        <item>外观和结构</item>
+        <item>如何连接蓝牙翻译棒？</item>
+        <item>蓝牙翻译棒有哪些功能？</item>
+        <item>支持多远的距离使用？</item>
+        <item>无法开机？</item>
+        <item>连接时找不到设备？</item>
+        <item>对话翻译如何使用？</item>
+        <item>录音翻译如何使用？</item>
+        <item>AI助手如何使用？</item>
+        <item>充电需要注意什么？</item>
+    </string-array>
+    <string-array name="str_record_language">
+        <item>中国語</item>
+        <item>英語</item>
+    </string-array>
+</resources>

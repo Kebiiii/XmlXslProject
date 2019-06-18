@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_languages">
+        <item> Arabisch-Ägypten </item>
+        <item> Arabisch-Saudi </item>
+        <item> Arabian-UAE </item>
+        <item> Katalonien </item>
+        <item> Tschechisch </item>
+        <item> Deutsch </item>
+        <item> Englisch-Australien </item>
+        <item> Englisch-Englisch </item>
+        <item> Englisch-Schönheit </item>
+        <item> Englisch-Indisch </item>
+        <item> Spanien-West </item>
+        <item> Spanien-Latein </item>
+        <item> Finnisch </item>
+        <item> Französisch-Plus </item>
+        <item> Französisch-Französisch </item>
+        <item> Hindi </item>
+        <item> Kroatisch </item>
+        <item> Ungarisch </item>
+        <item> Indonesisch </item>
+        <item> Italienisch </item>
+        <item> Hebräisch </item>
+        <item> Japanisch </item>
+        <item> Koreanisch </item>
+        <item> Niederländisch </item>
+        <item> Norwegisch </item>
+        <item> Polnisch </item>
+        <item> Portugal-Brasilien </item>
+        <item> Portugiesisch </item>
+        <item> Rumänisch </item>
+        <item> Russisch </item>
+        <item> Slowakisch </item>
+        <item> Schwedisch </item>
+        <item> Thai </item>
+        <item> Türkisch </item>
+        <item> Vietnamesisch </item>
+        <item> Cinese semplificato </item>
+        <item> Cinese tradizionale </item>
+        <item> Chinesisch (Kantonesisch) </item>
+        <item> Dänisch </item>
+        <item> Griechisch </item>
+        <item> Ukrainisch </item>
+        <item> Malaysisch </item>
+    </string-array>
+
+    <string-array name="str_help_titles">
+        <item> Aspetto e struttura </item>
+        <item> Come connettere una penna di traduzione Bluetooth? </item>
+        <item> Quali sono le funzioni del stick di traduzione Bluetooth? </item>
+        <item> Quanto dista la distanza di supporto? </item>
+        <item> non può essere avviato? </item>
+        <item> Non riesci a trovare il dispositivo quando ti connetti? </item>
+        <item> Come usare traduzione di conversazioni? </item>
+        <item> Come utilizzare registrazione traduzione? </item>
+        <item> Come usare AI Assistant? </item>
+        <item> A cosa dovrei prestare attenzione quando carico? </item>
+    </string-array>
+
+    <string-array name="str_record_language">
+        <item>Mandarino cinese</item>
+        <item>inglese</item>
+    </string-array>
+</resources>

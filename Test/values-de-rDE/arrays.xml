@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_languages">
+        <item> Arabisch-Ägypten </item>
+        <item> Arabisch-Saudi </item>
+        <item> Arabian-UAE </item>
+        <item> Katalonien </item>
+        <item> Tschechisch </item>
+        <item> Deutsch </item>
+        <item> Englisch-Australien </item>
+        <item> Englisch-Englisch </item>
+        <item> Englisch-Schönheit </item>
+        <item> Englisch-Indisch </item>
+        <item> Spanien-West </item>
+        <item> Spanien-Latein </item>
+        <item> Finnisch </item>
+        <item> Französisch-Plus </item>
+        <item> Französisch-Französisch </item>
+        <item> Hindi </item>
+        <item> Kroatisch </item>
+        <item> Ungarisch </item>
+        <item> Indonesisch </item>
+        <item> Italienisch </item>
+        <item> Hebräisch </item>
+        <item> Japanisch </item>
+        <item> Koreanisch </item>
+        <item> Niederländisch </item>
+        <item> Norwegisch </item>
+        <item> Polnisch </item>
+        <item> Portugal-Brasilien </item>
+        <item> Portugiesisch </item>
+        <item> Rumänisch </item>
+        <item> Russisch </item>
+        <item> Slowakisch </item>
+        <item> Schwedisch </item>
+        <item> Thai </item>
+        <item> Türkisch </item>
+        <item> Vietnamesisch </item>
+        <item> Vereinfachtes Chinesisch </item>
+        <item> Traditionelles Chinesisch </item>
+        <item> Chinesisch (Kantonesisch) </item>
+        <item> Dänisch </item>
+        <item> Griechisch </item>
+        <item> Ukrainisch </item>
+        <item> Malaysisch </item>
+    </string-array>
+
+    <string-array name="str_help_titles">
+        <item> Aussehen und Struktur </item>
+        <item> Wie verbinde ich einen Bluetooth-Übersetzungsstick? </item>
+        <item>Was sind die Funktionen des Bluetooth-Übersetzungssticks ? </item>
+        <item>Wie weit unterstützt die Entfernung? </item>
+        <item> kann nicht booten? </item>
+        <item> Kann das Gerät beim Verbinden nicht finden? </item>
+        <item> Wie verwende ich die Konversationsübersetzung? </item>
+        <item> Wie verwende ich die Aufnahmeübersetzung? </item>
+        <item> Wie benutze ich den AI Assistant? </item>
+        <item> Was muss ich beim Laden beachten? </item>
+    </string-array>
+
+    <string-array name="str_record_language">
+        <item>Vereinfachtes Chinesisch</item>
+        <item>Englisch</item>
+    </string-array>
+</resources>
