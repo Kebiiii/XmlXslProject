@@ -100,7 +100,6 @@ public class ReadXlsManager extends BaseSheet{
 	/**
 	 * 读取第一行，并创建对应的文件夹
 	 * @param row
-	 * @param maxRow
 	 */
 	private void readFirstRow(Row row){
 		if (row != null) {

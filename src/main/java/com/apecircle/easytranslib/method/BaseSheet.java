@@ -10,10 +10,6 @@ import java.util.Set;
 
 import com.apecircle.easytranslib.bean.XlsReadBean;
 
-
-/**
- * @author zhengshaorui 2018/6/24
- */
 public class BaseSheet {
 	// 这两个要一一对应
 	private static final String[] LANGUAGE_NAMES = new String[]{
