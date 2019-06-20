@@ -11,35 +11,17 @@ import java.util.Set;
 import com.apecircle.easytranslib.bean.XlsReadBean;
 
 public class BaseSheet {
-	// 这两个要一一对应
-	private static final String[] LANGUAGE_NAMES = new String[]{
-			"简体中文/Chinese", "繁体中文-台湾", "繁体中文-香港", "默认/Default", "英语/English", "捷克/Czech",
-			"丹麦语/Danish", "荷兰语/Dutch", "西班牙/Spanish", "芬兰语/Finnish",
-			"葡萄牙语/Portuguese", "法语/French", "德语/Deutsch", "希腊语/Greek",
-			"意大利语/Italian", "日语/Japanese", "挪威语/Norwegian", "波兰语/Polish",
-			"罗马尼亚语/Romanian", "俄语/Russian", "瑞典语/Swedish", "土耳其语/Turkish",
-			"阿拉伯语/Arabic", "匈牙利语/Hungarian",
-			"泰语/Thai", "波斯语/Persian", "越南语/Vietnamese", "韩语/Korean"};
 
-	private static final String[] LANGUAGE_FLODERS = new String[]{
-			"values-zh-rCN", "values-zh-rTW", "values-zh-rHK", "values", "values-en", "values-cs-rCZ",
-			"values-da-rDK", "values-nl", "values-es", "values-fi-rFI",
-			"values-pt", "values-fr", "values-de-rDE", "values-el-rGR",
-			"values-it-rIT", "values-ja", "values-nb-rNO", "values-pl-rPL",
-			"values-ro-rRO", "values-ru-rRU", "values-sv-rSE", "values-tr-rTR",
-			"values-ar", "values-hu-rHU",
-			"values-th-rTH", "values-fa", "values-vi-rVN", "values-ko-rKR"};
-	
-	
 	protected static Set<Entry<String, String>> LANGMAP;
 	protected static Set<Entry<String, String>> FLOADER;
 	public BaseSheet() {
-		int length = LANGUAGE_NAMES.length;
+		SheetEnum[] sheetEnums = SheetEnum.values();
+		int length = sheetEnums.length;
 		Map<String, String> language_map = new HashMap<>();
 		Map<String, String> floder_map = new HashMap<>();
 		for (int i = 0; i < length; i++) {
-			language_map.put(LANGUAGE_NAMES[i], LANGUAGE_FLODERS[i]);
-			floder_map.put(LANGUAGE_FLODERS[i], LANGUAGE_NAMES[i]);
+			language_map.put(sheetEnums[i].getTitle(), sheetEnums[i].getValueFileName());
+			floder_map.put(sheetEnums[i].getValueFileName(), sheetEnums[i].getTitle());
 			LANGMAP = language_map.entrySet();
 			FLOADER = floder_map.entrySet();
 		}
