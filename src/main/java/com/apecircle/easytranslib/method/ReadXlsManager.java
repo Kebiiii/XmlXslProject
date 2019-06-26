@@ -200,12 +200,12 @@ public class ReadXlsManager extends BaseSheet{
 				//Speicher [%1$s /% 2 $ s] Speicher [% 3 $ s /% 4 $ s]
 				
 				
-				
-				value = value.replaceAll("% ", "%")
+
+				/*value = value.replaceAll("% ", "%")
 							.replaceAll("1 ", "1").replaceAll("2 ", "2")
 							.replaceAll("3 ", "3").replaceAll("4 ", "4")
 							.replaceAll(" s", "s").replaceAll(" d", "d")
-							.replaceAll("％", "%").replace("\'", "\\'");
+							.replaceAll("％", "%").replace("\'", "\\'");*/
 							
 					
 				
@@ -320,7 +320,7 @@ public class ReadXlsManager extends BaseSheet{
 	/**
 	 * 写数据到 array file 里面
 	 * @param value
-	 * @param isLoop ，loop 主要用于array开头的key
+	 * @param dir ，loop 主要用于array开头的key
 	 */
 	private  void writeDatatoArrayFile(String value,String dir){
 		//array的字符串比较麻烦，自己定义的格式，从第二列开始
