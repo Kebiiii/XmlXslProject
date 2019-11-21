@@ -27,7 +27,7 @@ public class ReadXlsToXml {
 			.builder();
 	
 		ReadXlsManager.getInstance().readXls(bean.getBuilder());
-		System.out.println("在 "+ROOT_PATH+File.separator+FILE_NAME+" 生成文件啦!!");
+		System.out.println("在 " + ROOT_PATH + File.separator + FILE_NAME + " 生成文件啦!!");
 	}
 	
 	

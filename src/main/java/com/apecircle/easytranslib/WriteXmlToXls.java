@@ -20,7 +20,7 @@ public class WriteXmlToXls {
 				.setXlsName(XLS_NAME)
 				.builder();
 		WriteXlsManager.getInstance().startWrite(bean.getBuilder());
-		System.out.println("在 "+ROOT_PATH+File.separator+VALUE_PATH+"生成文件啦!!");
+		System.out.println("在 " + ROOT_PATH + File.separator + VALUE_PATH + "生成文件啦!!");
 	}
 
 
