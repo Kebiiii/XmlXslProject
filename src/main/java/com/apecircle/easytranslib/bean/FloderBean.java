@@ -6,4 +6,6 @@ public class FloderBean {
 	public String path;
 	public List<String> floderPaths;
 	public List<String> languages;
+	public List<String> languagesCode;
+	public List<Integer> languagesNumber;
 }

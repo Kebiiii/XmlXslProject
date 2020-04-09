@@ -98,11 +98,8 @@ public class WriteXlsManager extends BaseSheet{
 					for (String floderPath : bean.floderPaths) { //浏览文件夹
 						File floderFile = new File(floderPath);
 						if(floderFile.exists()){
-							
-							
 							List<String> valueNames = getFloderFileNameList(floderPath);
 							for (String valueName : valueNames) { //浏览各个文件夹中的文件
-								System.out.println("valuename: "+valueName);
 								Sheet sheet = null;
 								Row row = null;
 								int startColume = 1;
@@ -177,8 +174,10 @@ public class WriteXlsManager extends BaseSheet{
 			//bean.floderNames.add(getFloderName(file));
 			File[] files = rootFile.listFiles();
 			for (File file : files) {
-				bean.languages.add(getLangByFloder(getFloderName(file)));
-				bean.floderPaths.add(file.getAbsolutePath());
+				if (file.isDirectory()) {
+					bean.languages.add(getLangByFloder(getFloderName(file)));
+					bean.floderPaths.add(file.getAbsolutePath());
+				}
 			}
 			
 		}
@@ -221,6 +220,7 @@ public class WriteXlsManager extends BaseSheet{
 							sheet.setColumnWidth(cIndex+1, 25*256);
 							cell.setCellValue(cusRow.value); //再写value
 							mKeyList.add(cusRow.key);
+							System.out.println(cusRow.key+"------"+cusRow.value);
 						}else{ //array
 							int index = getIndexFromKey(cusRow.key);
 							if(index != -1){
