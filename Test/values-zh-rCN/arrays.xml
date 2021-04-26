@@ -44,6 +44,7 @@
         <item>乌克兰语</item>
         <item>马来西亚语</item>
         <item>埃及</item>
+        <item>土著语</item>
     </string-array>
 
     <string-array name="str_help_titles">
