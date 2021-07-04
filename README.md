@@ -1,6 +1,6 @@
 # Xml和excel 文件互转
 
-本项目 用于 Android 中的xml 文件的字符串转为excel 文档，Android国际化文件整理为excel文件，再通过excel文档转为安卓所需要的values文件
+本项目 用于 Android 中的xml 文件的字符串转为excel 文档，Android国际化文件整理为excel文件，再通过excel文档转为安卓所需要的values文件，可自动翻译，语种越多，需要翻译的字段越多，耗费的时间越长
 
 
 
